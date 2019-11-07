@@ -28,6 +28,7 @@ a.nav-link{
     color: #ccc;
     position: relative;
     display: inline-block;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .nav-link::before{
@@ -53,9 +54,25 @@ a.nav-link{
     width:400px;
     margin-left: 80px;
     padding-top: 52vh;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
 }
 .Attendence {
     margin-left: 80px;
     width: 400px;
     
+    
+}
+.text-center{
+    font-family: 'Abril Fatface', cursive;
+}
+.col-lg-4{
+   
+    background-size: cover;
+    
+}
+.col-lg-8{
+    font-size: 25px;
+    margin-top: 5%;
+    font-family: 'Poppins', sans-serif;
 }
