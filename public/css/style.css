@@ -76,3 +76,8 @@ a.nav-link{
     margin-top: 5%;
     font-family: 'Poppins', sans-serif;
 }
+
+.book-card {
+    background: #45c0ef;
+    height: 400px;
+}
