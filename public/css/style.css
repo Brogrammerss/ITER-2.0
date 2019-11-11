@@ -7,9 +7,26 @@
 .wd-max{
     width: max-content;
 }
+.txt-wh{
+    color: #fff;
+}
 
-.mt-80 {
-    margin-top: 80px;
+.mt-40 {
+    margin-top: 40px;
+}
+.link-blue:hover{
+    text-decoration: none;
+    color: #45c0ef;
+}
+.link-blue{
+    color: #45c0ef;
+    font-size: 20px;
+}
+
+.header{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif; 
+    font-family: 'Muli', sans-serif;
 }
 .sidenav {
     background: #fff;
@@ -25,7 +42,7 @@ ul.nav-list {
 }
 
 a.nav-link{
-    color: #ccc;
+    color: #85848D;
     position: relative;
     display: inline-block;
     font-family: 'Merriweather Sans', sans-serif;
@@ -63,9 +80,7 @@ a.nav-link{
     
     
 }
-.text-center{
-    font-family: 'Abril Fatface', cursive;
-}
+
 .col-lg-4{
    
     background-size: cover;
@@ -79,5 +94,27 @@ a.nav-link{
 
 .book-card {
     background: #45c0ef;
-    height: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.author{
+    font-size: 12px;
+}
+
+i.star{
+    font-size: 12px;
+    margin-right: 8px;
+}
+
+.dwnld-no{
+    font-size: 12px;
+}
+
+.card-content{
+    padding-left: 30px !important;
+}
+
+.end-links{
+    margin: 50px auto 20px auto;
 }
