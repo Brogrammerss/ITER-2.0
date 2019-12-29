@@ -28,5 +28,5 @@ app.use(express.static(__dirname+'/public'));
 
 var PORT = process.env.PORT 
 app.listen(PORT, () => {
-    console.log(`App started on port ${PORT}`)
+    console.log(`Server started on port ${PORT}`)
 })
